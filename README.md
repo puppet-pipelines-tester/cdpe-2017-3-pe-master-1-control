@@ -5,3 +5,4 @@ This is the control repo for use in pe_acceptance_tests. Currently only used for
 foo
 bar
 baz
+qux
